@@ -2,7 +2,8 @@
 
 ### This desktop application can classify between bike and car with 90% test accuracy.
 Dataset has been collected from Kaggle and Resnet18 model architechture has been used.
-Python 3.12.0 version has been used
+
+###Python 3.12.0 version has been used.
 
 ## DEMO
 
